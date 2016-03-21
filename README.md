@@ -5,7 +5,7 @@ A full description is available at the site where the data was obtained:
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The R script: run_analysis.R does the following things:
-1. Download file from URL above if file does not exist in current working directory\n
+1. Download file from URL above if file does not exist in current working directory \n
 2. Unzip file to current working directory
 3. Merge training and testing data
 4. Extract mean and standard deviation measurements for variables
